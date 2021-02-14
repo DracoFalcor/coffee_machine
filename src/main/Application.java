@@ -9,6 +9,9 @@ import java.util.concurrent.*;
  * @author vishnu.bhaskar
  * @created_on 13/02/21
  */
+
+// Hi all to run this code you need to provide the necessary inputs in this format: hot_coffee green_tea black_tea hot_tea
+    // and to exit you can enter the command exit anywhere
 public class Application {
 
     public static void main(String[] args) {
